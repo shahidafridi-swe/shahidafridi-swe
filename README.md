@@ -1,3 +1,5 @@
+<img src="banner.png" alt="Banner Image" style="width:100%; height:auto;">
+
 # 💫 About Me:
 I'm a new Django developer with a good understanding of Python and Web Development. I love building web applications and have worked on projects like "Amar Kotha" (https://amar-kotha.netlify.app). I aim to create easy-to-use websites while ensuring they work well behind the scenes. I enjoy learning things and tackling challenges. I'm excited to connect with others in tech fields and explore job opportunities.
 
